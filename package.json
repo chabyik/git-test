@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "깃 테스트용 레포지토리 입니다",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chabyik/git-test.git"
+  },
+  "author": "chabyik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chabyik/git-test/issues"
+  },
+  "homepage": "https://github.com/chabyik/git-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
